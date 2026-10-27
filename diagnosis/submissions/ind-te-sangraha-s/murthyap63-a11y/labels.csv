@@ -1,2 +1,151 @@
--doc_id,read,verdict,diseases,evidence,hex,note
-c2926fcd7c9d9ef6, 
+doc_id,read,verdict,diseases,evidence,hex,note
+c2926fcd7c9d9ef6,full,fix,D4," వాతావరణం మ్యాచ్ డ్రాగా ముగించేలా కుట్ర పన్నిన ముందు, హైడ్ ఆ ఇన్నింగ్స్లో మాత్రమే బ్యాటింగ్ చేయాల్సిన అవసరం లేదు.",, sentence has broken meaning.
+1476d4874c81f2a1,full,fix,D4,"D4: శిఖమెయిలీ క్సు షాన్ () లేదా మైన్రీ మంచు పర్వతాలు () అనేది ",,brackets to be removed; plural to use;
+e75cb610611b73de,full,fix,D4,"D4: గేదె బ్లేజర్లతో at [1018,1033)",,Buffalo team name translated as the animal.
+a28871107b0cefc2,full,fix,G3,"D4: నలుగురు సభ్యులున్న కుటుంబంలో హెన్రియెట్ అతి చిన్నవాడు",,Gender change; OTHER ISSUES BOOK NAME TRUE TELUGU TRANSLATION INSTEAD OF RETAINING ENGLISH MEANING. RE WORK.
+2c734bb02cc189c0,full,fix,D4,"D4: గోగానా అసాధారణత at [16,31)",,Species epithet translated into an ordinary Telugu noun. IF GOGANA IS CORRECT RETAIN IT. CLEAN.
+bac1bebb9e10546c,full,fix,D4;G1,"D4: మాలి యొక్క సమాధి ప్రాంతంలో at [25,51); G1: -ిస్సా at [172,178)","U+002D U+0C3F at [172,174); UTF-8 2D E0 B0 BF",Region name mistranslated; vowel sign attached to hyphen.
+58ccc1772caa4323,full,clean,,,,
+c87b02ce78c6b01a,full,fix,D4,"గ్రాంచి యొక్క ఆకు-కాలి గెక్కో",,There is no scientific name in telugu, name is not giving proper sense, it should be'Granchi aaku vanti vellu gala balli.
+598eba99199f82ba,full,clean,D4,"D4: పోర్టో నేషనల్ విమానాశ్రయానికి సేవలు అందిస్తుంది at [92,139)",,Airport described as serving itself instead of the city.
+d54c764be248da87,full,fix,D4,"D4: రేడియోని ప్రభావితం చేసింది at [451,477); అమ్మాయి యొక్కది",,Radio-release expression translated literally.should  be అమ్మాయిది.
+e41f1014c0d989d5,full,fix,D4,"సోవెట్స్కీ పుట్ ()",,Complete geographical stub; సోవెట్స్కీ పుట్ ()remove paranthesis.
+94111ca6a8b747be,full,fix,D4,"D4: వుర్వా భవనం 200 ఎన్ వద్ద ఉన్న భవనం. 22వ వ. at [21,63)",,Address fragments break the opening sentence.
+0f7559cb6c5f1f0b,full,fix,D4,"D4: అప్పుడు ముద్దు దాదాపు మొత్తం సీజన్ను at [753,789)",,Club name Kisat incorrectly becomes kiss.
+39a6ba9db8c951b9,full,fix,D4,"D4: నిర్ణయం ఆటలు ద్వారా కొనుగోలు చేయబడింది at [1735,1773)",,Publisher name Decision Games translated literally.
+f6988fc2f6e4c95e,full,fix,D4,"D4: అతను తరువాతి సీజన్ కోసం వారికి మళ్లీ రుణం ఇచ్చాడు at [301,350)",,Player loan sentence reverses agent and recipient.
+aa7178c79c1a5228,full,fix,B3;D4,"B3: <unk> at [27,32); D4: పిండి పిండి, మొక్కజొన్న పిండి మరియు సాగో లేదా మర్రి మిశ్రమాన్ని at [349,412)",,Literal unknown token; ingredient sentence needs correction.
+02f33ebabd373f9f,full,fix,D4,"D4: స్టేసీ న్యాయశాస్త్రం at [1324,1344)",,Contestant surname rendered as jurisprudence.
+0a3d01b8c6658b82,full,fix,D4,"D4: దీని బరువు మరియు పేరు at [2247,2268)",,Diamond weight value missing from the grammatical construction.
+f9d7cf6de63cc455,full,clean,,,,Complete historical account; no clear disease found.
+9fbe66b3acd67921,full,fix,D4,"D4: రాబర్ట్ జి దర్శకత్వం వహించిన అమెరికన్ అడ్వెంచర్ డ్రామా. వాకర్ at [40,101)",,Director name and sentence boundary are broken.
+d9d92df25bb9bbed,full,fix,D4,"D4: మూలిక లుబాలిన్ at [2810,2824)",,Designer name Herb translated as herb.
+4b30858c5d979859,full,fix,D4,"D4: వైకాటో బే ఆఫ్ పుష్కలంగా మేజిక్ at [3424,3454); D4: ఫిట్జ్గెరాల్డ్ మొదట సిడ్నీకి చెందినవాడు at [894,933)",,Team place name mistranslated and female coach given male gender.
+eb656d0cbf8d0add,full,fix,D4,"D4: ఎల్హాసన్ కౌరా జిల్లాలోని బ్టౌరటిజ్ లో జన్మించాడు at [195,243)",,Female author assigned a masculine birth verb.
+0a959795abcefb55,full,fix,D4,"D4: వీటిని ఎన్ని అనువర్తనాలను నిర్మించాలో కలిసి సమీకరించవచ్చు at [119,176)",,Opening definition has malformed application-building clause.
+e61e3982f326eb8b,full,drop,C3;D4,"C3: కాన్స్టాన్స్ రాజు కోసం 6 మంది పిల్లలకు జన్మనిచ్చాడుః at [63115,63167); D4: నాణేలను పుదీనా చేయాలి at [51467,51488)",,Ends before promised children list; pervasive semantic mistranslations.
+3cee2dafe3638c21,full,drop,B3;D4,"B3: <unk> <unk> <unk> <unk> <unk> <unk> at [6106,6141); D4: కే రూ ని కాల్చుతుంది at [3689,3709)",,Six unknown tokens; dismissal mistranslated as shooting; pervasive errors.
+3411322a8c545381,full,fix,D4,"D4: ఒక ఉపనది ఏర్పాటును భద్రపరిచి at [14487,14515)",,Tributary agreement rendered as a river-tributary arrangement.
+70686aeb9d01c41f,full,drop,D4,"D4: జూదం ఆడటానికి సహాయపడటానికి at [5469,5495); D4: ఆవులకు చేరుకుంది at [9552,9568)",,Gamble and Cowes rendered as gambling and cows; pervasive name damage.
+be350d2473cdb121,full,fix,D4,"D4: పొడవు మరియు వెడల్పు సుమారు చేరుకోవచ్చు at [476,514)",,Length and width values missing; sentence malformed.
+29d817ea07bbe2ef,full,fix,D4,"D4: యువరాజుల రహదారి ద్వారా ప్రవహిస్తాయి at [517,552)",,Princes Highway mistranslated and river-crossing relation broken.
+75b148520f49cdb3,full,fix,D4,"D4: సామ్రాజ్యం యొక్క గణన at [1726,1746)",,Noble title count mistranslated as calculation.
+d78c631c2bf869ef,full,fix,D4,"D4: ఒకోలీ ఆఫ్రికన్ అచీవర్స్ అవార్డులకు నామినేట్ చేయబడ్డాడు at [1473,1527)",,Female author assigned masculine nominated verb.
+e9288995d928919a,full,clean,,,,Complete athlete biography; no disease found.
+34c6cb0e205f3907,full,fix,D4,"D4: తక్కువ సాక్స్ చికిత్సలు at [572,595)",,Saxophone arrangement described as socks treatments.
+53644f0c34df4394,full,fix,D4,"D4: ఫుట్బాల్ పూర్తి-వెనుకవాడు at [106,131)",,Full-back position translated word by word.
+7cec415bb4bdc235,full,fix,D5,"D5: ఒక దశాబ్దం కంటే ఎక్కువ కాలం గాటా యొక్క ఆర్చ్ బిషప్ గా గడిపిన ముందు at [232,298)",,English clause order retained in unnatural Telugu syntax.
+7e27ab3473275db2,full,fix,D4,"D4: దాదాపు ఎక్కువ కాలం ఉంటుంది at [502,528)",,Route-length comparison lacks amount and uses duration wording.
+053cde372562bf35,full,fix,D4,"D4: జెస్సే ఉన్ని at [1,13)",,Woolley surname translated as wool in the title.
+a87bb7429a970070,full,fix,D4,"D4: మత్స్యకారుల స్థానంలో మైక్ నోలన్ at [1524,1555)",,Coach surname Fisher translated as fishermen.
+845c5979b164a551,full,fix,D4,"D4: మాకు $6,000 కోసం at [385,401)",,US currency abbreviation translated as to us.
+29196613cdcd085b,full,fix,C3;D4,"C3: ఆల్ట్వీస్ ఈ క్రింది జాతీయ అలంకరణలను అందుకున్నారుః at [1648,1697); D4: ఒక విలాసవంతమైన రాజకీయవేత్త at [75,101)",,Final decorations list missing; Luxembourg demonym mistranslated.
+048253a66db2c885,full,fix,D4,"D4: రాపర్ అవకాశం ఇచ్చారు at [187,207)",,Chance the Rapper name mistranslated as giving an opportunity.
+a46fcbf136a920a7,full,drop,D4,"D4: గుణాల సమూహానికి ఒక వస్తువు ఉన్నా, అది ఉనికిలో ఉన్నా లేదా ఉనికిలో ఉన్నా at [5119,5189)",,Logical contrast collapses; multiple absent equations make argument unusable.
+573657b0088d7648,full,fix,D4,"D4: సమయోచితంగా మరియు మౌఖికంగా ఉపయోగించబడింది at [1678,1718)",,Topical administration mistranslated as timely.
+95d7125b9d37e035,full,fix,D4,"D4: ద్వంద్వయుద్ధంలో నమోదు చేయబడ్డాడు at [516,548)",,Dual registration mistranslated as registration in a duel.
+5d65bd57a32f545d,full,fix,D4,"D4: మొదటి నాలుగు విత్తనాలు at [266,288)",,Tennis seeds mistranslated as plant seeds.
+96d7b80d980f1d2e,full,drop,D4,"D4: గుర్తింపులు సుగంధ at [1243,1260); D4: ఎల్జిబిటిక్యు వ్యక్తులు సాధారణంగా ఎల్జిబిటిక్యు జనాభాకు చెందిన వారితో పోలిస్తే at [8926,9004)",,Aromantic mistranslated; comparator loses non-LGBTQ distinction; pervasive errors.
+bae9636d02b0f6bb,full,fix,C3;D4,"C3: గత yda జాతీయ సమావేశాలు ఈ క్రింది వేదికలలో జరిగాయిః at [1985,2035); D4: ప్రజాస్వామ్య జాతీయ కమిటీవమెన్ at [1143,1172)",,Final convention list missing; party office terminology malformed.
+b24a823da79b8e29,full,fix,D4,"D4: ఆల్బర్ట్ ఎస్ దర్శకత్వం వహించిన 1927 నాటి అమెరికన్ నిశ్శబ్ద పాశ్చాత్య చిత్రం. కెన్ మేనార్డ్ నటించిన రోజెల్. at [43,149)",,Director surname displaced into the next sentence.
+e828e080f1bc993a,full,fix,D4,"D4: అధ్యక్షురాలిగా మంత్రిగా నియమితులయ్యారు, ప్రతి ఒక్కరి అధికారంలో ఉన్నారు at [1962,2032)",,Ministerial appointment sentence is grammatically and semantically broken.
+c181e86973c9c464,full,fix,D4,"D4: సెయింట్ లోని హెర్మిటేజ్ మ్యూజియంలో భద్రపరచబడ్డాయి. పీటర్స్బర్గ్. at [1922,1986)",,Saint Petersburg split across a sentence boundary.
+3df020a2e6e4795d,full,fix,D4,"D4: నా అంత్యక్రియలు మరియు మరణించిన రికార్డులను ఆలింగనం చేసుకోవడం at [682,742)",,Record-label names translated as ordinary prose.
+7ec35da72069c62f,full,fix,D4,"D4: ఆవు జీను at [86,94)",,Cow Saddle place name translated literally.
+e8d9b29cc44a0bed,full,fix,D4,"D4: ఈ ఆవిష్కరణ సంగీత శాస్త్రవేత్త మరియు స్వరకర్త జాన్ హెచ్. at [1632,1687)",,Reconstruction sentence broken across the composer's name.
+e1b95a344ee931ad,full,fix,D4,"D4: బెట్టీ సర్వ్ చేయడానికి ప్రారంభ చర్యగా at [967,1004)",,Band name and supporting-act expression mistranslated.
+77736f9e9be4c1ea,full,fix,D5,"D5: ఇప్పుడు ఎక్కువగా పాత వాదన at [57,82)",,Unnatural literal phrasing for an obsolete argument.
+7fa0ec3272bae6f2,full,fix,D4,"D4: గాలి సభ్యుల టెలిపతిక్ ఒప్పందాన్ని at [464,497)",,Band name Air translated as air.
+560e3887460bf27d,full,drop,D4,"D4: అల్లెన్ పీతకు బదులుగా at [9675,9696)",,Crabbe surname translated as crab; repeated name and sports-term corruption.
+07c362973462b492,full,fix,C3;D4,"D4: బహుళ ప్రజా పడవలు ప్రారంభించబడతాయి at [2384,2417); C3: దిగువ పూర్తి జాబితా ఉంది, ఉత్తర నుండి దక్షిణం వరకు క్రమబద్ధీకరించబడింది. at [3190,3262)",,Final crossing list absent; boat-launch facilities mistranslated as boats being launched.
+cb70d94a91aa878f,full,clean,,,,Complete football biography; natural sports terminology.
+ce2bc614c90e48e1,full,fix,D4,"D4: తల విరామ చిహ్నాలు at [205,222)",,Anatomical punctures mistranslated as punctuation marks.
+cea4bcd57ffee3d5,full,fix,D4,"D4: మూడు సంవత్సరాల ఎల్ఎల్ అందిస్తుంది.బి. కోర్సు at [267,311)",,Degree abbreviation breaks the course-description sentence.
+ae7453a3683bcbc4,full,fix,D4,"D4: సిడిని ఊహించండి at [1342,1357)",,Album title Imagine rendered as an instruction.
+685f75e6485e4b41,full,clean,,,,Complete lake description; no clear disease found.
+8ee3a4fd303f802a,full,fix,D4,"D4: ఒర్టెగా క్యూబాలోని ఎస్క్యూలా ఇంటర్నేషనల్ డి సినీ వై టెలివిజన్లో చదువుకున్నాడు at [324,401)",,Female director assigned masculine verb.
+21f53eb34c325ee4,full,fix,D4,"D4: రోమన్ పౌరసత్వాన్ని at [2092,2110)",,Romanian nationality repeatedly mistranslated as Roman.
+6aaa95b110924e1a,full,fix,D4,"D4: నావికాదళానికి పౌర ప్రభువుగా at [1004,1031)",,Civil Lord of the Admiralty rendered literally and unnaturally.
+d6284389fd69d7b6,full,fix,D4,"D4: ఒక టోపీని గెలుచుకున్నాడు at [1287,1311)",,International cap mistranslated as a hat.
+43b5c83edf48f270,full,fix,D4,"D4: అధిక సున్నితత్వం మరియు తక్కువ సున్నితత్వాన్ని at [2222,2267)",,Sensitivity and specificity collapsed into the same term.
+e8dbde5348f4a62a,full,drop,D4,"D4: రాతి హక్కుల సమానత్వాన్ని at [4594,4618)",,Masonic rights rendered as stone rights; pervasive broken clauses.
+992948360b701835,full,fix,D4,"D4: మొక్కజొన్న మార్పిడి at [925,944)",,Theatre name Corn Exchange translated literally.
+549012cfc4968754,full,fix,D4,"D4: టోలెడో మట్టి కోళ్ళకు at [923,943)",,Team name Mud Hens translated literally; ERA rendered as era.
+8981a4a65f1c3273,full,fix,D4,"D4: హృదయ భూమి ఆరోగ్యం at [759,776)",,Healthcare institution Heartland Health translated word by word.
+2faf82eb1e33cbb3,full,drop,D4,"D4: రైలు దాని విలక్షణమైన తలపాగా మోసుకెళ్లడం ఆపింది at [4466,4512)",,Train headboard mistranslated as headgear; repeated technical mistranslations.
+c6a8902c73289b17,full,drop,D4,"D4: అతని మెడ చుట్టూ ఒక గొడ్డలి కట్టారు at [3060,3094)",,Noose mistranslated as axe; pervasive gender and occupational errors.
+d0693c2069163e1a,full,fix,C3,"C3: టామ్ లిన్సన్ రెండు జ్ఞాపకాల పుస్తకాలను రాశారుః at [912,958)",,Ends before the promised two-book list.
+92a1ce500a4c7f4f,full,fix,D4,"D4: మార్టిన్ మిల్లులకు at [2037,2055)",,Mills surname translated as mills; label and band names also mistranslated.
+f0820cdf267da330,full,drop,A3;A6;B3;D4,"A3: Â at offsets 1902;4914; A6: బేర్ అక్షరం θ at [3846,3859); B3: 11 <unk> tokens; first at [3951,3956); D4: కండ్లకలకల బంధాలను at [2028,2045)","A3: U+00C2; UTF-8 C3 82 at [1902,1903); A6: U+03B8; UTF-8 CE B8 at [3858,3859)",Conjuncts mistranslated as conjunctivitis; Greek substitutions and eleven unknown tokens.
+1dfc15bd899c7864,full,fix,C2;D4,"C2: శాతం శాతం శాతం at [15652,15666); D4: కార్యకర్తలు ఒక ప్రచారానికి విధేయత కలిగిన ""పాదచారులు"" at [2522,2574); C2: 217 repeated words at [15652,16736)",,Long within-line repetition run; campaign prose also contains mistranslations.
+5f614eee83dcd7bb,full,fix,D4,"D4: సహ-శిక్షకుడు అయ్యాడు at [978,998)",,Ecclesiastical coadjutor mistranslated as co-teacher.
+86a81c1cd07ae575,full,fix,D4,"D4: లెజియన్ యొక్క గుర్రపు ఆదేశాలతో at [1143,1173)",,Knightly orders mistranslated as horse commands.
+6bc1b77d89c11606,full,fix,D4,"D4: కమాలి ఇరాన్లో జన్మించింది at [196,221)",,Male bodybuilder assigned feminine verb.
+c2179a0380a08f68,full,fix,D4,"D4: రుణ సొరచేపకు at [2906,2918)",,Loan shark translated literally as a shark.
+0afba23d206d1d2a,full,fix,D4,"D4: నేటి ప్రదర్శన విభాగంలో at [1644,1666)",,Today television-show name translated as today's show.
+5bec6a3ca4355008,full,fix,D4,"D4: బంగారం కళాకృతి at [1189,1203)",,Gold surname translated as gold.
+14c6c67a1af2e07f,full,fix,D4,"D4: నగరంలోని సంతోషకరమైన మరియు ఇతర సామాజిక న్యాయ నాయకులను at [574,626)",,Gladden surname translated as happy.
+79aae4509fe0dbcc,full,drop,D4,"D4: ఉల్లంఘనకారుడిగా స్థానం at [3285,3307)",,Violist mistranslated as violator; numerous corrupted musical terms.
+49147b9da4e02fc1,full,fix,D4,"D4: బేకర్ స్ట్రీట్ యొక్క తులసి at [1448,1474)",,Character name Basil translated as basil plant.
+c17982dd660f65a2,full,fix,D4,"D4: ఫిలిప్ కె రాసిన సైన్స్ ఫిక్షన్ చిన్న కథ. డిక్. at [45,91)",,Author surname split from given names by a sentence boundary.
+84906b62c9dff33d,full,clean,,,,Complete geographical stub; no substantive disease found.
+b62103db46cc8dad,full,fix,D4,"D4: 8వ నిర్లిప్తతకు బాధ్యత at [1163,1185)",,Military detachment mistranslated as emotional detachment.
+114cf608cc0c8dc8,full,fix,D4,"D4: అతని సోదరీమణులు వేరేవారు at [345,369)",,Else given name translated as others.
+9cef2e47112c6d13,full,fix,D4,"D4: అతని తల్లి, చాలా భక్తురాలు మరియు స్వలింగ సంపర్కం at [2028,2076)",,Homophobic mother incorrectly described as homosexual.
+8ca3d3f03062fb27,full,fix,D4,"D4: యు. ఎస్. జె. శిఖరాగ్ర సదస్సులో at [1143,1173)",,Summit mall name translated as a summit conference.
+59d01088b35a7cbd,full,fix,D4,"D4: జేమ్స్ సి కి విక్రయించబడ్డాడు. రెండు రజత ఒలింపిక్ పతకాలు గెలుచుకుంది at [498,566)",,Rider-name and horse-subject construction broken.
+4a736329549610db,full,fix,D4,"D4: ఆయన తరువాత కెన్నెత్ ఎ విజయం సాధించాడు. జెస్సెల్ at [2059,2106)",,Successor relation translated as winning; surname split.
+10c38833da843d90,full,clean,,,,Complete community-council description and village list.
+19284c53604dfc22,full,clean,,,,Complete song summary; translated song title is understandable.
+2a1bf5ca4cf5f93c,full,fix,D4,"D4: హార్ట్ హౌస్, ఒక CA ని కూడా నిర్వహిస్తుంది. 1850లో at [2150,2199)",,Circa date breaks the historic-house description.
+2bdad06abedeaa1c,full,fix,D4,"D4: షాబో 1992 జూలై 4న హైఫాలో మరణించాడు at [1405,1439)",,Female writer assigned masculine death verb.
+e8a9171224ef5845,full,drop,D4,"D4: జనరల్ కిచెన్ కింద at [15892,15909)",,Kitchener surname translated as kitchen; repeated names and military terms corrupted.
+b04d22c04ea47594,full,fix,D5,"D5: గేట్ గణనలు అత్యంత ముఖ్యమైన మొత్తం కారకాల్లో at [300,343)",,Awkward literal phrasing in the explanation of chip cost.
+e6db2988cb9bcdf2,full,drop,D4,"D4: ప్రాచీన ప్రభావ మండలంలో at [8422,8444)",,ANC acronym interpreted as ancient; numerous strategic names mistranslated.
+06c9843d503a8007,full,fix,D4,"D4: గ్రామాలు మరియు గ్రామాలు at [351,374)",,Villages and hamlets collapsed into the same term.
+05248ba6824d9f1f,full,fix,D4,"D4: భవనం కొనసాగుతోంది.జి. వాటర్సైడ్ at [445,476)",,Example marker and building-development sentence malformed.
+d7d13ed37c277bea,full,drop,A6;B2;D4,"A6: λαki at [26,30); B2: <బిఆర్> at [300,307); D4: ఒక చిన్న విషయం at [1,15)","U+03BB U+03B1; UTF-8 CE BB CE B1 at [26,28)",Village name mixes Telugu with Greek and Latin; translated residual br tag.
+a33b1897b1457dc1,full,drop,D4,"D4: పెద్దవాళ్ళు ఒక గదిని పంచుకున్నారు at [952,985)",,Biggs surname repeatedly translated as big people.
+68f14759c20fb768,full,fix,D4,"D4: ఉబ్బిన యుద్ధంలో at [268,283)",,Battle of the Bulge translated as a swollen battle.
+89d9603f0bc9ba86,full,fix,C3;D4,"C3: సభ్యులలోః at [1241,1250); D4: ఆర్థిక విభేదాలను ఎదుర్కొంది at [580,607)",,Final board-member list absent; financial difficulties rendered as disagreements.
+5166aabb4861ff4f,full,fix,C3,"C3: దీనికి ఒక పర్యాయపదము ఉంది; at [260,286)",,Ends before supplying the announced synonym.
+80dffad903accbeb,full,fix,D4,"D4: చిన్నవారి టార్టాన్ ప్రత్యేక బీర్ at [1772,1804)",,Younger's brewery name translated as younger people's.
+b578d52805722e28,full,fix,D4,"D4: జాన్ ఎమ్ రాసిన నవల. ఫోర్డ్. at [46,73)",,Author surname split from given names.
+d352fb4e6a80de95,full,fix,C3,"C3: ఈ క్రింది 11 గ్రామాలు ఉన్నాయిః at [807,837)",,Ends before the announced eleven-village list; population sentence also incomplete.
+5a7b61b6960f11d8,full,fix,D4,"D4: రెండు లేదా మూడు చిన్నపిల్లల చెత్తకు జన్మనిస్తారని at [2303,2352)",,Litter mistranslated as rubbish; biological measurements also missing.
+57b555b2a05b7a98,full,clean,,,,Complete election stub; no clear disease found.
+3508443f21ce5514,full,fix,D4,"D4: తన పాలనను ఏక ఇస్లామిక్ అని ఖండిస్తూ at [484,519)",,Criticism of un-Islamic rule mistranslated as monolithic Islamic rule.
+1f88aae063554937,full,fix,D4,"D4: ఇంట్లో తదుపరి పాత్రలలో at [489,511)",,Opera-house roles mistranslated as roles at home.
+03fb9b401e1502bc,full,fix,D4,"D4: అతను యూరోపియన్ కౌన్సిల్ అధ్యక్షుడిగా రాజీనామా చేశారు at [391,443)",,Resignation to take another post rendered as resignation from that post.
+956be202bc7290d8,full,fix,D4,"D4: తొమ్మిది నెలల తొలగింపు తరువాత at [465,494)",,Racing layoff mistranslated as dismissal.
+5b95cabc1c6bb77b,full,fix,C3;D4,"D4: కార్పొరేటర్లు కుప్పకూలారు at [1888,1913); C3: నైరుతి వెర్మోంట్ ఆరోగ్య సంరక్షణలో ఇవి ఉన్నాయిః at [5855,5901)",,Breaking ground mistranslated as collapsing; final related-organizations list absent.
+30dba6607c964642,full,drop,C2;D4,"D4: సుగంధ ద్రవ్యాలు బహుశా పాత్ర పోషించవు at [7753,7789); C2: ఎనోవిడ్ ఇ, ఎనోవిడ్ ఇ, ఎనోవిడ్ ఇ at [11711,11742)",,Aromatization mistranslated as spices; repeated brand names and broken receptor terminology.
+e48ce213509a7e61,full,drop,C2;D4,"D4: చెవుల ఎగిరిపోవడంతో at [7918,7936); C2: పెద్ద పెద్ద పెద్ద పెద్ద పెద్ద at [17103,17132); C2: 227 repeated words at [17103,18464)",,Flight of the Earls mistranslated as flying ears; long repeated-word run.
+9a70c84e0864dda8,full,fix,D4,"D4: ఒక యువ గృహిణి, ఓమైన్ at [114,134)",,Domestic servant incorrectly described as housewife; name-boundary errors recur.
+2af91e27831c93ec,full,fix,C2;D4,"D4: అబ్బాయిల గదిలోని దుకాణాలు at [518,543); C2: యస్ యస్ యస్ యస్ యస్ at [5587,5606); C2: 127 repeated words at [5587,6094)",,Toilet stalls mistranslated as shops; long yes-word repetition run.
+26cd044e77de9c0e,full,fix,D4,"D4: సాధారణ అభ్యాసకుడిగా at [1069,1088)",,General medical practitioner mistranslated as a general learner.
+c479291220807749,full,fix,D4,"D4: డేవిడ్ పెంపుడు at [566,580)",,Foster surname mistranslated as pet; several band names translated literally.
+6c464db945054a12,full,fix,D4,"D4: రోజువారీ లైంగికత ప్రాజెక్టును at [3185,3214)",,Everyday Sexism project mistranslated as everyday sexuality.
+318ea9dc78a95835,full,clean,,,,Complete lake description; no clear disease found.
+dc2be05c6c9e6383,full,fix,D4,"D4: కెన్కానా చీజ్ క్లబ్ at [870,889)",,Chess rendered as cheese in club name.
+e2f3aa550af80ad3,full,fix,C2;D4,"C2: identical gym-interior sentence at [4897,5042) and [5043,5188); D4: డా. చార్లెస్ హెచ్. నూలడం at [368,392)",,Spinning surname mistranslated as spinning; gym-interior sentence duplicated.
+df223df450d13dda,full,fix,D4,"D4: ఏకస్వామ్యానికి వ్యతిరేకంగా స్థిరమైన మూడవ కౌన్సిల్ at [163,212)",,Monothelitism and Constantinople mistranslated.
+092a8d42f599af0d,full,fix,C3;D4,"C3: రిజిస్టర్ ప్లస్ మెమరీ నిర్మాణానికి ఉదాహరణలుః at [715,759); D4: డిస్క్ డిజైన్ల ద్వారా at [540,561)",,Final examples missing; RISC architecture also corrupted to disk.
+310cdd8998973fd0,full,fix,D4,"D4: అడవి ఆటకు ఆవాసాలను at [900,918)",,Wild game mistranslated as a game; bamboo cane also confused with sugarcane.
+bb1309ec2ecee6c7,full,fix,D4,"D4: కఠినమైన ఎంబ్రాయిడరీ at [1,20)",,Hardanger regional name translated as hard.
+2a211903b3901e31,full,fix,D4,"D4: గౌరవ వైద్యుడిగా చేసింది at [3248,3271)",,Honorary doctorate mistranslated as honorary physician.
+3255998c61e1ab38,full,fix,D4,"D4: సలోమ్ (తుప్పు) రోడెస్ at [227,248)",,Rust surname translated as rust.
+663df53aed17ecfd,full,fix,D4,"D4: ప్రతిజ్ఞాత్మకమైనవి మరియు ఆమె సోషల్ మీడియా రెండింటిపై at [836,888)",,PledgeMusic platform name mistranslated as an adjective.
+38c7656aa2d5cb66,full,fix,D4,"D4: అత్యవసర ప్రయాణ ధృవీకరణ పత్రం (మొదలైనవి) at [3386,3425)",,ETC abbreviation translated as etcetera.
+9766b168bdd949a9,full,fix,D4,"D4: ఆమె తన పుస్తకం at [353,367)",,Male painting teacher assigned feminine pronoun in book dedication.
+a6b4cfc20494b4ad,full,fix,D4,"D4: వేడి సాస్ తో ధరిస్తారు at [381,403)",,Dressing food mistranslated as wearing sauce.
+65cacfc1caebf8fe,full,fix,D4,"D4: వైద్య వైద్యుడు మార్టిన్ డోబ్కిన్కు at [602,636)",,Physician description redundantly translated; election sentence needs editing.
+5913f75a9f71a35b,full,fix,D4,"D4: ఇందులో మూడు సమాధులు ఉన్నాయిః at [304,332)",,Named cemeteries rendered as individual graves.
+d0133fed9adbee93,full,fix,D4,"D4: ఎంపి సిన్హా ప్రధానమైనది at [171,194)",,School principal mistranslated as main; nominal ending alone does not establish truncation.
+961c0be4cd1d5bef,full,fix,D4,"D4: నిద్రిస్తున్న బోలు at [142,160)",,Sleepy hollow description translated literally.
+3dbf4ee7290f1569,full,fix,B4;D4,"B4: ఐడి1 at [1129,1133); D4: ప్లాట్లలో అడుగులు అందుబాటులో ఉన్నాయి at [1262,1298)",,Template-like ID placeholder in plot-size description; measurements and grammar corrupted.
+ef6a2d0eae34eb6d,full,fix,D4,"D4: 1993లో పతనం తరువాత, పతనం కంపెనీ at [171,202)",,Fallon surname and company name translated as fall.
+2fc2496d4435083f,full,fix,D4,"D4: గోపురం పుస్తకంలో at [559,575)",,Domesday Book mistranslated as tower book.
+b61666502c18b14f,full,fix,D4,"D4: ఒక సౌండ్ కంపెనీకి at [361,378)",,Financially sound company mistranslated as a sound company.
+79167d66fe9ef5eb,full,fix,A3;B2;D4,"B2: <</Â> at [1534,1539); A3: Â at [1537,1538); D4: బాగా వెళ్ళండి at [2036,2049)","A3: U+00C2; UTF-8 C3 82 at [1537,1538)",Malformed markup with mojibake; distributor Well Go translated as an instruction.
+7119840a32b605ff,full,fix,D4,"D4: క్వీన్ అనే హైస్కూల్ at [316,335)",,Queen Anne school name mistranslated by treating Anne as named.
